@@ -20,6 +20,3 @@ file "pde.cpp". Here the relevant parameters are described
 in lines 18-28, where e.g. the scaling parameter sigma for the non-local repulsive term 
 and the interfacial parameter epsilon can be changed 
 in order to simulate certain gradient flows. 
-
-The default configuration of the parameters is appropriate 
-to the second experiment provided in the thesis Section 4.

@@ -4,6 +4,8 @@ Implementation of an Ohta-Kawasaki phase field approximation of the liquid drop 
 
 The repo provides the **C-++**–implementation of the numerical experiments conducted in [[1]](#1). 
 
+The development of the software in **C++** was done by **<a href = https://aam.uni-freiburg.de/mitarb/wolffvorbeck/index.html>Steve Wolff-Vorbeck<a/>** (**University of Freiburg**) on the basis of a finite element software package created by **Prof. Patrick Dondl** (**University of Freiburg**).
+
 For more details on the usage of the code please check the **"README.txt"** file.
 
 

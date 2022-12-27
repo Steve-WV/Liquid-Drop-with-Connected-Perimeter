@@ -4,7 +4,7 @@ Implementation of an Ohta-Kawasaki phase field approximation of the liquid drop 
 
 The repo provides the **C-++**-implementation of the numerical experiments conducted in [[1]](#1). 
 
-For more details on the usage of the code please check the **"Readme.txt"** file.
+For more details on the usage of the code please check the **README.txt"** file.
 
 
 ## References

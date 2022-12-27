@@ -2,9 +2,9 @@
 
 Implementation of an Ohta-Kawasaki phase field approximation of the liquid drop model with an additional connectedness constraint on the perimeter of a set.
 
-The repo provides the **C-++**-implementation of the numerical experiments conducted in [[1]](#1). 
+The repo provides the **C-++**–implementation of the numerical experiments conducted in [[1]](#1). 
 
-For more details on the usage of the code please check the **README.txt"** file.
+For more details on the usage of the code please check the **"README.txt"** file.
 
 
 ## References

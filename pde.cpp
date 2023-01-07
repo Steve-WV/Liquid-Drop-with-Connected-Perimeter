@@ -158,7 +158,7 @@ void ImplicitPDESystem::Init(std::string config_file, bool vis_only=false) {
 	mas=v; 
 	std::cerr << "Int u of initial condition = " << v << std::endl;
 	std::cerr << "Area of the domain Omega = " << Area << std::endl;
-	std::cerr << "It is a kind pf magic = " << sigma << std::endl;
+	std::cerr << "Local energy density = " << sigma << std::endl;
 	
 	PrepKM();
 		
